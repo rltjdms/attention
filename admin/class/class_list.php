@@ -67,7 +67,7 @@
 ?>
 
 
-<div class="container">
+<div>
   <h2 class="tt_01 text-center">강좌 목록</h2>
 
   <form action="" class="mt-5" id="search_form">
