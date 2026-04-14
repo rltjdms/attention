@@ -88,7 +88,7 @@
     <p class="text5">F: Front / B: Back / A: All</p>
   </div>
   <hr>
-  <a href="http://hoon95.dothome.co.kr/attention/admin/login.php" class="text5 icon_mint">관리자 페이지 가기</a>
+  <a href="http://gie0225.dothome.co.kr/attention/admin/login.php" class="text5 icon_mint">관리자 페이지 가기</a>
 
   <div class="mt-4 d-flex justify-content-between">
     <div class="d-flex align-items-center gap-2">
