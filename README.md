@@ -4,8 +4,8 @@
   <h3>LMS(학습지원시스템) Project</h3>
   완성작 보러가기🔍
   <br>
-  3rd : **[Code Rabbit_admin page](http://hoon95.dothome.co.kr/attention/admin/login.php)** <br> 
-  4th : **[Code Rabbit_user page](http://hoon95.dothome.co.kr/attention/user/index.php)**  
+  3rd : **[Code Rabbit_admin page](http://gie0225.dothome.co.kr/attention/admin/login.php)** <br> 
+  4th : **[Code Rabbit_user page](http://gie0225@gie0225.dothome.co.kr/attention/user/index.php)**  
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 🌈 구현
 
-**[3rd_Code Rabbit_admin page](http://hoon95.dothome.co.kr/attention/admin/login.php)**
+**[3rd_Code Rabbit_admin page](http://gie0225.dothome.co.kr/attention/admin/login.php)**
 | 3차 | 구현페이지 |
 | --- | --- |
 | **김다훈** | 로그인, 대시보드, 매출관리, 회원관리 |
@@ -69,7 +69,7 @@
 | **한수연** | 카테고리 (조회,등록,수정,삭제) |
 | **한지희** | 강의관리 (조회,등록,상세보기) |
 
-**[4th_Code Rabbit_user page](http://hoon95.dothome.co.kr/attention/user/index.php)**
+**[4th_Code Rabbit_user page](http://gie0225@gie0225.dothome.co.kr/attention/user/index.php)**
 | 4차 | 구현페이지 |
 | --- | --- |
 | **김다훈** | 회원가입/계정찾기(A), 장바구니(A), 내 강의실(B) |
