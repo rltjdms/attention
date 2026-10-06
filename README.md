@@ -4,9 +4,9 @@
   <h3>LMS(학습지원시스템) Project</h3>
   완성작 보러가기🔍
   <br>
- 3rd : **[Code Rabbit_admin page](http://gie0225@gie0225.dothome.co.kr/attention/admin/login.php)** <br>
+3rd : <strong><a href="http://gie0225@gie0225.dothome.co.kr/attention/admin/login.php">Code Rabbit_admin page</a></strong><br>
 
- 4th : **[Code Rabbit_user page](http://gie0225@gie0225.dothome.co.kr/attention/user/index.php)**
+4th : <strong><a href="http://gie0225@gie0225.dothome.co.kr/attention/user/index.php">Code Rabbit_user page</a></strong>
 
 </div>
 
